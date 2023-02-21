@@ -1,6 +1,6 @@
 # 乐动体育最新下载地址（2023年2月21日更新）
 
-### 点击以下链接进入下载页： 
+### 乐动体育手机H5浏览地址： 
 
 ### [ld64.com](https://ldvip64.com)<br> 
  
@@ -19,7 +19,6 @@
 ### [苹果原生APP下载地址二](itms-services://?action=download-manifest&url=https://appdownload.hxjmc.com/ldapp/manifest.plist)<br> 
 ### [苹果原生APP下载地址三](itms-services://?action=download-manifest&url=https://m5app-download.s3.ap-east-1.amazonaws.com/ldapp/manifest.plist)<br>
 
-<p data-v-6cbd636e="" id="download-app1" data-clipboard-text="https://ldvip64.com" class="download-app">下载原生App1
 
 # 乐动体育回家页简介
 
