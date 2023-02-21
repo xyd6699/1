@@ -7,7 +7,7 @@
 ### [18ld.vip](https://18ld.vip)<br>   
  
 
-### 安卓APP下载链接：
+### 安卓APP下载地址：
 
 ### [安卓下载地址一](https://appdownload.hxjmc.com/ldapp/ld.apk)<br> 
 ### [安卓下载地址二](https://m5app-download.s3.ap-east-1.amazonaws.com/ldapp/ld.apk)<br>
