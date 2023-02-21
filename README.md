@@ -7,20 +7,23 @@
 ### [18ld.vip](https://18ld.vip)<br>   
  
 
-### 备用下载页下载链接：
+### 安卓APP下载链接：
 
-### [bber999.me](https://bber999.me)<br> 
+### [安卓下载地址一](https://appdownload.hxjmc.com/ldapp/ld.apk)<br> 
+### [安卓下载地址二](https://m5app-download.s3.ap-east-1.amazonaws.com/ldapp/ld.apk)<br>
+### [安卓下载地址三](https://appdownload.blob.core.windows.net/ldapp/ld.apk)<br>
 
-### 易倍体育手机H5浏览地址：
-### [ehh456.com](https://ehh456.com)<br>  
-### [77bro.com](https://77bro.com)<br> 
+### 苹果原生APP下载地址：
+
+### [苹果原生APP下载地址一](itms-services://?action=download-manifest&url=https://appdownload.blob.core.windows.net/ldapp/manifest.plist)<br>  
+### [苹果原生APP下载地址二](itms-services://?action=download-manifest&url=https://appdownload.hxjmc.com/ldapp/manifest.plist)<br> 
+### [苹果原生APP下载地址三](itms-services://?action=download-manifest&url=https://m5app-download.s3.ap-east-1.amazonaws.com/ldapp/manifest.plist)<br>
 
 
+# 乐动体育回家页简介
 
-# 易倍体育回家页简介
-
-### 分享精彩体育赛事，尽在易倍体育！<br>
-### 请收藏保存本网址：[github.com/emc999/1](https://github.com/emc999/1)<br>
+### 分享精彩体育赛事，尽在乐动体育！<br>
+### 请收藏保存本网址：[github.com/xyd6699/1](https://github.com/xyd6699/1)<br>
 
 ### 安卓手机出现限制安装解决办法
 
