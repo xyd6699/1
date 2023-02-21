@@ -19,6 +19,7 @@
 ### [苹果原生APP下载地址二](itms-services://?action=download-manifest&url=https://appdownload.hxjmc.com/ldapp/manifest.plist)<br> 
 ### [苹果原生APP下载地址三](itms-services://?action=download-manifest&url=https://m5app-download.s3.ap-east-1.amazonaws.com/ldapp/manifest.plist)<br>
 
+<p data-v-6cbd636e="" id="download-app1" data-clipboard-text="https://ldvip64.com" class="download-app">下载原生App1
 
 # 乐动体育回家页简介
 
