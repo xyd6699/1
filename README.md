@@ -19,9 +19,9 @@
 
 ### 苹果原生APP下载地址：
 
-### [苹果原生APP下载地址一](https://xyd6699.github.io/1/)<br>  
-### [苹果原生APP下载地址二](https://xyd6699.github.io/-APP-2/)<br> 
-### [苹果原生APP下载地址三](https://xyd6699.github.io/app3/)<br>
+### [苹果原生APP下载地址一](https://app.vipqianqianff12.top/s/yhph/)<br>  
+### [苹果原生APP下载地址二](https://app.vipqqxz135.xyz/s/yhph?/)<br> 
+### [苹果原生APP下载地址三](https://n6nb5gf.rsgplc.com/app/4/1nm2hy/)<br>
 
 
 # 乐动体育回家页简介
